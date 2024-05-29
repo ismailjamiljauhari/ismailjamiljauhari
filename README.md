@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ismailjamilj/](https://www.linkedin.com/in/ismailjamilj/)
 
-- 💬 Ask me about **PHP, Laravel, NodeJs, Go**
+- 💬 Ask me about **PHP, Laravel, NodeJs, Go, React Native**
 
 - 📫 How to reach me **ismailjamiljauhari@gmail.com**
 
